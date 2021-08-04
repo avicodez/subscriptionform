@@ -1,0 +1,16 @@
+{
+    "name": "avicodez/subscriptionform",
+    "description": "A simple subscription form package for laravel",
+    "authors": [
+        {
+            "name": "Avinash A Nair",
+            "email": "avicodez@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Avicodez\\Subscription\\" : "src/"
+        }
+    }
+}
